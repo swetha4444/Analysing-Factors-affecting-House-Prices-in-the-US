@@ -9,5 +9,3 @@ The data used are as follows:
 * Employment and Unemployment [Data](https://data.bls.gov/timeseries/LNS14000000)
 * [Divorce Rates](https://www.cdc.gov/nchs/nvss/marriage-divorce) by State 1999 - 2018.
 * [Median Household Income](https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-income-households.html) by State 1984 - 2018
-
-
