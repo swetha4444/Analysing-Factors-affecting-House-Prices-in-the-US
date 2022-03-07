@@ -10,3 +10,4 @@ The data used are as follows:
 * [Divorce Rates](https://www.cdc.gov/nchs/nvss/marriage-divorce) by State 1999 - 2018.
 * [Median Household Income](https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-income-households.html) by State 1984 - 2018
 * Time series of major commodity prices and indices including iron, cooper. Monthly prices for 53 commodities and 10 indexes, starting from 1980 to 2016. Data comes from the [International Monetary Fund (IMF)](www.imf.org).
+* S&P/Case-Shiller U.S. National Home Price Index [CSUSHPISA](https://fred.stlouisfed.org/series/CSUSHPISA).
