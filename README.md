@@ -9,3 +9,4 @@ The data used are as follows:
 * Employment and Unemployment [Data](https://data.bls.gov/timeseries/LNS14000000)
 * [Divorce Rates](https://www.cdc.gov/nchs/nvss/marriage-divorce) by State 1999 - 2018.
 * [Median Household Income](https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-income-households.html) by State 1984 - 2018
+* Time series of major commodity prices and indices including iron, cooper. Monthly prices for 53 commodities and 10 indexes, starting from 1980 to 2016. Data comes from the [International Monetary Fund (IMF)](www.imf.org).
